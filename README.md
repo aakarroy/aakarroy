@@ -1,4 +1,19 @@
-## Hi there 👋
+### Hi there! I'm Aakar Roy 👋
+
+I am an AI-ML enthusiast eager to build **scalable AI-enabled solutions** to real-world problems.
+
+---
+
+### 🛠️ Tech Stack
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+
+1. Currently working on deep learning and neural networks. [see projects](#projects)
+2. Beginner at using frameworks like **TensorFlow** and **Keras**. [see projects](#projects)
+3. Always eager to talk about Machine Learning and AI.
+4. To reach me just drop a mail at: [iamaakarroy@gmail.com](mailto:iamaakarroy@gmail.com)
+
 
 <!--
 **aakarroy/aakarroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
