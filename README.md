@@ -13,6 +13,9 @@ I am an AI-ML enthusiast eager to build **scalable AI-enabled solutions** to rea
 2. Beginner at using frameworks like **TensorFlow** and **Keras**. [see projects](#projects)
 3. Always eager to talk about Machine Learning and AI.
 4. To reach me just drop a mail at: [iamaakarroy@gmail.com](mailto:iamaakarroy@gmail.com)
+5. Currently working on SamDrishti (assistive technology for visually impaired people).
+
+To see my work: [Projects](https://my-projects-aakar-roy.streamlit.app/)
 
 
 <!--
